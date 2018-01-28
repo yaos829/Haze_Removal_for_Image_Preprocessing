@@ -4,7 +4,7 @@
 <Single Image Haze Removal Using Dark Channel Prior> - Kaiming He, Jian Sun, and Xiaoou Tang, Fellow, IEEE.
 
 ### Algorithm demonstration
-![Alt text](https://github.com/CHENG-MING/Single-Image-Haze-Removal-Using-Dark-Channel-Prior/Test_picture/Demo.jpg)
+![Alt text](https://github.com/CHENG-MING/Single-Image-Haze-Removal-Using-Dark-Channel-Prior/raw/master/Test_picture/Demo.jpg)
 
 ### Requirements:
 	* Matlab toolsbox
